@@ -8,7 +8,7 @@
 ### :man_technologist: About Me
 
 - :mortar_board: I'm a student for **M**athematical **T**echnical **S**oftware **D**eveloper (MATSE) as dual training at [FH Aachen University of Applied Sciences](https://www.fh-aachen.de/).
-- :computer: I'm working as Java Software Engineer for [Veda GmbH](https://github.com/VEDAGroup) with the [spring](https://spring.io) framework
+- :computer: I'm working as Java Software Engineer for [VEDA GmbH](https://github.com/VEDAGroup) with the [spring](https://spring.io) framework
 
 ---
 ### :fire: My Stats

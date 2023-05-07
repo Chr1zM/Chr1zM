@@ -5,13 +5,12 @@
   </h1>
 </div>
 
-### :man_technologist: About Me
-
+### About Me :man_technologist:
 - :mortar_board: I'm a student for **M**athematical **T**echnical **S**oftware **D**eveloper (MATSE) as dual training at [FH Aachen University of Applied Sciences](https://www.fh-aachen.de/).
 - :computer: I'm working as a Java Developer for [VEDA GmbH](https://github.com/VEDAGroup) including the [spring](https://spring.io) framework
 
 ---
-### Languages and Tools 🛠️:
+### Languages and Tools 🛠️
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -27,8 +26,7 @@
 </p>
 
 ---
-### :fire: My Stats
-
+### My Stats :fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chr1zM&theme=gruvbox&show_icons=true)](https://github.com/Chr1zM)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1zM&theme=gruvbox&show_icons=true)](https://github.com/Chr1zM)

@@ -28,4 +28,4 @@
 ### My Stats :fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chr1zM&theme=gruvbox&show_icons=true)](https://github.com/Chr1zM)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1zM&theme=gruvbox&show_icons=true)](https://github.com/Chr1zM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr1zM&theme=gruvbox&show_icons=true&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/Chr1zM)

@@ -7,7 +7,7 @@
 
 ### About Me :man_technologist:
 
-- :computer: I'm working as a C# Developer for [LINEAR GmbH](https://github.com/Linear-GmbH).
+- :computer: C# Developer for [LINEAR GmbH](https://github.com/Linear-GmbH).
 
 ---
 ### Languages and Tools 🛠️

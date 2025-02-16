@@ -7,7 +7,8 @@
 
 ### About Me :man_technologist:
 
-- :computer: C# Developer for [LINEAR GmbH](https://github.com/Linear-GmbH).
+- :mortar_board: I am a trained Mathematical-Technical Software Engineer (MATSE) and B.Sc. in [Scientific Programming](https://www.fh-aachen.de/studium/studiengaenge/angewandte-mathematik-und-informatik-bsc-dual) studied at [FH Aachen University of Applied Sciences](https://www.fh-aachen.de/).
+- :computer: I am a C# Developer for [LINEAR GmbH](https://github.com/Linear-GmbH).
 
 ---
 ### Languages and Tools 🛠️
